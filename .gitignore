@@ -1,0 +1,6 @@
+matrix_mult/*
+!matrix_mult/matrix_mult.cpp
+quick_sort/*
+!quick_sort/quick_sort.cpp
+fib/*
+!fib/fib.cpp
